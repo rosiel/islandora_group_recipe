@@ -3,7 +3,7 @@ description: 'Taxonomy-based group assignment for islandora.'
 type: 'Access control'
 install:
   - islandora_group
-  - islandora_solr
+  - group_solr
   - private_files_adapter
 
 
