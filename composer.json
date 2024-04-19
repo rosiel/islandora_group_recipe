@@ -1,6 +1,6 @@
 {
-  "name": "islandora/islandora_groups_recipe",
-  "description": "Apply configuration for Groups-based access control",
+  "name": "islandora/islandora_group_recipe",
+  "description": "Apply configuration for Group-based access control",
   "type": "drupal-recipe",
   "require": {
     "drupal/core": "^10.2",

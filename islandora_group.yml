@@ -1,5 +1,9 @@
 name: 'Islandora Groups for Access Control'
 description: 'Taxonomy-based group assignment for islandora.'
 type: 'Access control'
+install:
+  - islandora_group
+  - islandora_solr
+  - private_files_adapter
 
 
