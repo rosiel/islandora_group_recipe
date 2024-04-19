@@ -1,0 +1,5 @@
+name: 'Islandora Groups for Access Control'
+description: 'Taxonomy-based group assignment for islandora.'
+type: 'Access control'
+
+
