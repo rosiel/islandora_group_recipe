@@ -3,7 +3,7 @@
   "description": "Apply configuration for Group-based access control",
   "type": "drupal-recipe",
   "require": {
-    "drupal/core": "^10.2",
+    "drupal/core": "^10.2 | ^11",
     "digitalutsc/islandora_group": "^2.0@beta",                                                                                             
     "digitalutsc/private_files_adapter": "^1.0.0@beta",                                                                                     
     "digitalutsc/group_solr": "^1.0.0@beta"
